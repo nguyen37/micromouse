@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,8.6.3*%
+%TF.CreationDate,2018-03-05T01:58:30Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Nichlas Nguyen <nicholas.h.nguyen1@gmail.com>*%
+%TJ.B_ID,micromouse_schematic*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,46.152000*%
+%TJ.B_Size_Y,66.030000*%
+M02*
